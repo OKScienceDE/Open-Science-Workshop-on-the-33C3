@@ -21,6 +21,7 @@ more open and better science.
 - Tape
 - Cameras
 - Set up etherpad
+- Set up GitHub repo
 
 ## Responsibilities
 
@@ -45,16 +46,15 @@ more open and better science.
 (ideally somebody of the organizers count the numbers)
 
 Arrange by
-- professional sciencist, citizien scientist, just interested
-- research file (physics, life science, chemistry, enginering, humanisties)
-- academic degree (studying, bachelor, master, PhD student, Postdoc, professor)
+- professional scientist, citizen scientist, just interested
+- research field (physics, life science, chemistry, engineering, humanities)
+- academic degree (student, bachelor, master, PhD student, Postdoc, Professor)
 - who has a clear picture or fuzzy picture of open science
 - how open is your research field in general
 
-- 3 round of one-to-one:
+- 3 rounds of one-to-one:
   - talk to somebody you don't know; what is your research and your interest
 
 ### What is Open Science
 
-Arrange modules like (open data, open access, open peer review) around
-the research cycle.
+Arrange modules of open science (like open data, open access, open peer review) around the research cycle.
