@@ -10,20 +10,24 @@ https://events.ccc.de/congress/2016/wiki/Session:Open_Science_Workshop
 - Cards
 - Tape
 - Cameras
+- Set up etherpad
 
 ## Responsibilities
 
 - Moderation
 - Counting
 - Photos
+- Protocol
 
 ## Program
 
 ### House kepping
 
+
 - Who we are (AG Open Science)
 - OFKN
 - Photos
+- Pad URL https://pad.okfn.org/p/OpenScienceWorkshop33C3
 - Twitter hashtag #OSW33C3
 
 ### Warm-up 
