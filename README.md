@@ -4,6 +4,16 @@
 
 https://events.ccc.de/congress/2016/wiki/Session:Open_Science_Workshop
 
+Do you think science is as open, transparent and reproducible as it
+could be? Are we using the full potential of digitalization and the
+internet for our research. Are non-scientist sufficiently aware of and
+embedded into the scientific process? We want to discuss all this and
+want to hear your voice and experiences! Open Access, Open Data, Open
+Notebooks, Open Source, Open Educational Resources Citizen science -
+those topics and more will be in the center of this participant-driven
+meeting. More importantly we want to connect people interested in a
+more open and better science.
+
 ## Preparation / Equipment
 
 - Pens
@@ -14,10 +24,10 @@ https://events.ccc.de/congress/2016/wiki/Session:Open_Science_Workshop
 
 ## Responsibilities
 
-- Moderation
-- Counting
+- Counting people
 - Photos
 - Protocol
+- Moderation (@konrad)
 
 ## Program
 
