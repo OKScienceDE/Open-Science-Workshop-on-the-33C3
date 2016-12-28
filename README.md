@@ -26,7 +26,7 @@ more open and better science.
 ## Responsibilities
 
 - Counting people
-- Photos
+- Photos (@aleimba)
 - Protocol
 - Moderation (@konrad)
 
