@@ -27,3 +27,18 @@ clustering by field
 
 # elevator pitch
 3 rounds (2min each)
+
+# What is OpenScience?
+## The research cycle
+ - Idea
+ - Data generation
+ - Data analysis
+ - Publication
+ - Funding
+
+Discussing how open each aspect is
+### Publication
+ - Open Access
+   + paying more money to the publisher
+   + goleden open access
+   + APC not necessary (other business models) - diamond open access
