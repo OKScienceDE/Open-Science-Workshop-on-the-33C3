@@ -29,17 +29,17 @@ more open and better science.
 - Photos (@aleimba)
 - Protocol
 - Moderation (@konrad)
+- Welcomer (say "hi" to people who are entering the room)
 
 ## Program
 
 ### House kepping
 
-
 - Who we are (AG Open Science)
 - OFKN
-- Photos
+- Photos (we will take photo, we have one part of the room that is safe)
 - Pad URL https://pad.okfn.org/p/OpenScienceWorkshop33C3
-- Twitter hashtag #OSW33C3
+- Please tweet - Twitter hashtag #OSW33C3
 
 ### Warm-up 
 
@@ -57,4 +57,5 @@ Arrange by
 
 ### What is Open Science
 
-Arrange modules of open science (like open data, open access, open peer review) around the research cycle.
+Arrange modules of open science (like open data, open access, open
+peer review) around the research cycle.
