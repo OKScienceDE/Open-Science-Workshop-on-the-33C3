@@ -1,6 +1,6 @@
 # participants
 ~40 (growing to ~50)
-
+~30 from germany, ~13 from (non-german) europe
 # interactive arrangement
 ## background
  - scientists: 30
@@ -42,3 +42,9 @@ Discussing how open each aspect is
    + paying more money to the publisher
    + goleden open access
    + APC not necessary (other business models) - diamond open access
+   + using repositories (not necessarily peer reviewed)
+   + green open access
+   + cost much lower than price (for most publishers)
+   + publishers add reputation (we can not replace that immediately)
+   + impact factor plays a huge role
+ - Open Data
