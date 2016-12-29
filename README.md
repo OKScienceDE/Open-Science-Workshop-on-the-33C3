@@ -25,7 +25,7 @@ more open and better science.
 
 ## Responsibilities
 
-- Counting people
+- Counting people (@iimog)
 - Photos (@aleimba)
 - Protocol
 - Moderation (@konrad)
